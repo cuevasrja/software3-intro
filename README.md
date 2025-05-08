@@ -9,7 +9,7 @@ This is a web application CRUD using Nextjs, Typescript and Pg (npm module) driv
 In order to execute this project you must have:
 
 * Nodejs installed
-* **Postgresql**, You need postgresql running, you can see the sql table, in `/database/db.sql`
+* **Postgresql**, You need postgresql running, you can see the sql table, in `/database/db.sql`. You should run this file in your database to create the table and insert some data.
 
 ### Installation for local development
 
